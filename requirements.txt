@@ -1,0 +1,7 @@
+jax
+flax
+optax
+scipy
+tqdm
+numpy
+pandas

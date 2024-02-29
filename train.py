@@ -1,5 +1,3 @@
-import itertools
-
 from flax import linen as nn
 from flax.training import train_state
 import jax.numpy as jnp
@@ -8,7 +6,6 @@ import numpy as np
 import optax
 from absl import app
 from absl import flags
-import datasets
 from tqdm import tqdm
 import pandas as pd
 
